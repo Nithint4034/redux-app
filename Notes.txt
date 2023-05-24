@@ -1,0 +1,5 @@
+REDUX -	A complex State Management Tool, with a single as CDS- Central Data Store.
+REDUCER - Manages the State And Returs the newly updated State.
+ACTIONS - Actions have 2 properties type. which is a unique identifier and payload.
+DISPATCH - Dispatch is used to send actions to update the data.
+
